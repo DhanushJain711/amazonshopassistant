@@ -1,3 +1,7 @@
+## Amazon ShopAssistant Chrome Extension
+
+This is a Chrome extension which is able to assist Amazon shoppers in finding the right product, utilizing ChatGPT API. The extension scrapes product information from Amazon, and alongside user inputted product criteria, generates a ChatGPT response describing how well the product fits the user's needs.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
